@@ -1,0 +1,5 @@
+{
+  "name": "Spellmaster",
+  "description": "A fun, interactive English vocabulary learning app for young learners (Movers level) featuring dictation, pronunciation, and listening quizzes.",
+  "requestFramePermissions": ["microphone"]
+}
